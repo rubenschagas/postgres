@@ -1,0 +1,14 @@
+{
+  "name": "postgres",
+  "description": "A Postgres (Postgis) automated deployment",
+  "version": "0.0.1",
+  "repository": "https://github.com/rubenschagas/postgres",
+  "author": "Rubens Chagas",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "docker": ">=24.0.2",
+    "docker compose": ">=2.18.1",
+    "a postgres dbms client, like DBeaver": ">=23.x"
+  }
+}
