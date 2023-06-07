@@ -12,7 +12,7 @@
 
 ## OVERVIEW
 
-The objective of this README.md document file is to provide help on how to run the automated deployment of a simple [local] containerized Postgres DBMS service.
+The objective of this README.md document file is to provide help on how to run the automated deployment of a simple [local] containerized Postgres DBMS service, using a Docker Compose yml file.
 
 ## PREREQUISITES
 
