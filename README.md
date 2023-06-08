@@ -12,7 +12,7 @@
 
 ## OVERVIEW
 
-The objective of this README.md document file is to provide help on how to run the automated deployment of a simple [local] containerized Postgres DBMS service, using a Docker Compose yml file.
+The objective of this README.md document file is to provide help on how to run the automated deployment of a simple [local] containerized PostgresSQL DBMS service, using a Docker Compose yml file.
 
 ## PREREQUISITES
 
@@ -22,7 +22,7 @@ The objective of this README.md document file is to provide help on how to run t
 3. "a postgres dbms client, like DBeaver": ">=23.x".
 ```
 
-Please see the [Oficial Documentation](https://hub.docker.com/r/postgis/postgis).
+Please see the [Postgis Oficial Documentation](https://hub.docker.com/r/postgis/postgis).
 
 ## USE CASES
 
@@ -33,7 +33,7 @@ docker-compose -f docker-compose-postgres.yml up -d
 
 ## TESTING CONNECTION
 
-Using a postgres dbms client, like DBeaver, add a Postgres type connection, as follows:
+Using a postgres dbms client, like DBeaver, add a PostgresSQL type connection, as follows:
 
 ![](./assets/readMeMd/postgres1.png)
 
