@@ -14,6 +14,8 @@
 
 The objective of this README.md document file is to provide help on how to run the automated deployment of a simple [local] containerized PostgresSQL DBMS service, using a Docker Compose yml file.
 
+It is recommended to use a Portainer management UI which allows you to easily build and manage containers your Docker host, available at [Portainer project](https://github.com/rubenschagas/portainer).
+
 ## PREREQUISITES
 
 ```
