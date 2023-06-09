@@ -16,6 +16,8 @@ The objective of this README.md document file is to provide help on how to run t
 
 It is recommended to use a Portainer management UI which allows you to easily build and manage containers your Docker host, available at [Portainer project](https://github.com/rubenschagas/portainer).
 
+Likewise, an automated deployment of users, databases and tables based on Ansible playbooks is available at the [ansibleAutomatedPlaybooks](https://github.com/rubenschagas/ansibleAutomatedPlaybooks) project.
+
 ## PREREQUISITES
 
 ```
