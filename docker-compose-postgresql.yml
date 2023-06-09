@@ -5,6 +5,8 @@ services:
     build:
       context: ./docker-build/postgres
       dockerfile: ./PostgreSQL.dockerfile
+    volumes:
+      - "/var/run/postgresql/:/var/run/postgresql"
     container_name: postgres
     environment:
       - POSTGRES_USER=postgres
