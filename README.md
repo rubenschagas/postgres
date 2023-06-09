@@ -4,7 +4,7 @@
 
 [OVERVIEW](#overview)
 
-[PRE REQUISITES](#prerequisites)
+[PREREQUISITES](#prerequisites)
 
 [USE CASES](#use-cases)
 
