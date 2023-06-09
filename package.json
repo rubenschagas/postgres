@@ -1,7 +1,7 @@
 {
   "name": "postgres",
   "description": "A Postgres (Postgis) automated deployment",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": "https://github.com/rubenschagas/postgres",
   "author": "Rubens Chagas",
   "private": true,
