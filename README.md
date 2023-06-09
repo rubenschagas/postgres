@@ -41,4 +41,6 @@ Using a postgres dbms client, like DBeaver, add a PostgresSQL type connection, a
 
 ![](./assets/readMeMd/postgres2.png)
 
+![](./assets/readMeMd/postgres4.png)
+
 ![](./assets/readMeMd/postgres3.png)
