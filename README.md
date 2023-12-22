@@ -20,14 +20,15 @@ Likewise, an automated deployment of users, databases and tables based on Ansibl
 
 ## PREREQUISITES
 
-```
 1. "docker": "24.0.2";
 2. "docker compose": "2.18.1";
 3. "a postgres dbms client, like DBeaver": ">=23.x";
 4. install a postgresql-client-13 locally:
+
+```
  apt-get update \
-  && apt-get install -y postgresql-client-13
- apt-get clean \
+  && apt-get install -y postgresql-client-13 \
+  && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
 ```
 
