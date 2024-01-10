@@ -32,7 +32,7 @@ Likewise, an automated deployment of users, databases and tables based on Ansibl
   && rm -rf /var/lib/apt/lists/*
 ```
 
-Please see the [Postgis Oficial Documentation](https://hub.docker.com/r/postgis/postgis).
+Please see the [Postgis Official Documentation](https://hub.docker.com/r/postgis/postgis).
 
 ## USE CASES
 
